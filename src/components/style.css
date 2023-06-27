@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+}
+.header {
+    width: 16%;
+    padding: 20px;
+    border: 1px solid white;
+}
+tr {
+    width: 100%;
+    border: 1px solid white
+}
+td {
+    width: 16%;
+    padding: 15px;
+    border: 1px solid white
+}
