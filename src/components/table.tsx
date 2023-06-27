@@ -3,7 +3,6 @@ import Header from "./header";
 import "./style.css";
 import Row from "./row";
 
-// @ts-ignore
 const data: any = [
   {
     name: "EU",
